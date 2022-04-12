@@ -1,0 +1,22 @@
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\bin\Debug\Fighter Jet Shooting game.exe.config
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\bin\Debug\Fighter Jet Shooting game.exe
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\bin\Debug\Fighter Jet Shooting game.pdb
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter_Jet_Shooting_game.Form1.resources
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter_Jet_Shooting_game.Properties.Resources.resources
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.exe
+C:\Users\admin\Downloads\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.pdb
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\bin\Debug\Fighter Jet Shooting game.exe.config
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\bin\Debug\Fighter Jet Shooting game.exe
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\bin\Debug\Fighter Jet Shooting game.pdb
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter_Jet_Shooting_game.Form1.resources
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter_Jet_Shooting_game.Properties.Resources.resources
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.exe
+C:\Users\admin\Desktop\project fighter jet game\Fighter Jet Shooting game\Fighter Jet Shooting game\obj\Debug\Fighter Jet Shooting game.pdb
